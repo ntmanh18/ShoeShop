@@ -1,0 +1,2 @@
+1. Tạo Component
+2. Muốn xuất hiện trên layout phải gắn vào app
